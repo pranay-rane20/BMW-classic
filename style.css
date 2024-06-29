@@ -23,6 +23,7 @@ body {
     /* cursor: pointer; */
     font-family: kanit;
 }
+
 body::-webkit-scrollbar{
     display: none;
 }
